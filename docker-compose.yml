@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+
+  usermanagement-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: usermanagement-api
+    ports:
+      - "5004:80"
+      - "5005:443"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+    volumes:
+      - ./logs:/app/logs
+    restart: unless-stopped

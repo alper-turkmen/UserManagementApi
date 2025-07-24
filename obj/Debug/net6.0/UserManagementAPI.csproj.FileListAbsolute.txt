@@ -43,3 +43,4 @@
 /Users/alper/Others/UserManagementApi/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.pdb
 /Users/alper/Others/UserManagementApi/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.genruntimeconfig.cache
 /Users/alper/Others/UserManagementApi/UserManagementAPI/obj/Debug/net6.0/ref/UserManagementAPI.dll
+/Users/alper/Others/UserManagementApi/UserManagementAPI/obj/Debug/net6.0/UserManagementAPI.sourcelink.json
