@@ -3,8 +3,7 @@
 .NET Core 6 ile geliştirilmiş PostgreSQL kullanan kullanıcı yönetim API
 
 ## https://usermanagement.alperturkmen.com/swagger/index.html
-## https://sensewisecase.alperturkmen.com/swagger/index.html
-## Adreslerinde Docker ve Nginx ile yayınlanmıştır.
+## Adresinde Docker ve Nginx ile yayınlanmıştır.
 
 
 ![User Management API](img.png)
